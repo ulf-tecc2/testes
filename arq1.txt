@@ -19,3 +19,4 @@
 18 linha inserida BRANCH A remota. Atualizada para 18 quando fez o pull
 
 21 Linha inserida remota branche C
+22 outra Linha inserida remota branche C
