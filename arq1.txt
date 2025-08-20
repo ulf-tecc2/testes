@@ -17,3 +17,5 @@
 17 Linha inserida remota branche main
 
 18 linha inserida BRANCH A remota. Atualizada para 18 quando fez o pull
+
+21 Linha inserida remota branche C
