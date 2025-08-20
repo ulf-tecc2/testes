@@ -15,3 +15,4 @@
 15	Linha inicial
 16  Linha inserida local
 17 linha inserida BRANCH A remota
+20 linha inserida BRANCH A remota
